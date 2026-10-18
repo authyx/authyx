@@ -6,7 +6,7 @@
 
 <br>
 
-[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elbouzidi.top) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-el-bouzidi-851a222bb/?trk=vca_bot)
+[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elbouzidi.top) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-el-bouzidi-851a222bb/)
 </div>
 
 ---
@@ -36,14 +36,16 @@ These days I work mostly on AI integration, RAG systems and web backends with Fa
 
 | Project | What it is |
 |:---|:---|
-| **[code-review-agent](https://github.com/authyx/code-review-agent)** | Automated code review with LLM-driven diff analysis |
+| **[code-review-agent](https://github.com/authyx/code-review-agent) (Private)** | Automated code review with LLM-driven diff analysis |
 | **[rag-system](https://github.com/authyx/rag-system)** | Retrieval-augmented generation pipeline |
+| **[exchange-13](https://github.com/authyx/exchange-13)** | Money-exchange system (P2P) for the school campus, in Node and Express |
 | **[bookshelf](https://github.com/authyx/bookshelf)** | Full-stack app: React + Vite, Node/Express backend, Redis, MongoDB, Dockerized |
+| **[inception](https://github.com/authyx/inception)** | Dockerized web infrastructure built without pre-made images |
 | **[ft_irc](https://github.com/authyx/ft_irc)** | IRC server in C++ with sockets, poll and multi-client handling |
 | **[webserv-parsing](https://github.com/authyx/webserv-parsing)** | HTTP/1.1 server with spec parsing, CGI and non-blocking I/O |
 | **[cub3d](https://github.com/authyx/cub3d)** | Raycasting 3D engine in C with textured walls and sprites |
-| **[inception](https://github.com/authyx/inception)** | Dockerized web infrastructure built without pre-made images |
-| **[exchange-13](https://github.com/authyx/exchange-13)** | Money-exchange system for the 1337 campus, in Node and Express |
+
+
 
 </details>
 
