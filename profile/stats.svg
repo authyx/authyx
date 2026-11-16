@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">El Bouzidi Youssef's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 2102, Total PRs: 67, Total Issues: 8, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 2101, Total PRs: 67, Total Issues: 8, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 150.97539435176253;
+        stroke-dashoffset: 150.975736737809;
       }
     }
   
